@@ -1,0 +1,17 @@
+dateModified: 1607021692
+email:
+  fromEmail: andyzack@gmail.com
+  fromName: Branchout
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: Branchout
+  schemaVersion: 3.5.13
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
