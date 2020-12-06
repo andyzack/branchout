@@ -1,8 +1,13 @@
-dateModified: 1607021692
+dateModified: 1607206591
 email:
   fromEmail: andyzack@gmail.com
   fromName: Branchout
   transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: solo
   live: true

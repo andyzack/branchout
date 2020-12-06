@@ -1,0 +1,33 @@
+contentColumnType: string
+fieldGroup: 946916b0-0055-4cd6-ab4a-8e6501d18e9b
+handle: placesImage
+instructions: ''
+name: 'Places Image'
+searchable: true
+settings:
+  allowSelfRelations: false
+  allowUploads: true
+  allowedKinds:
+    - image
+  defaultUploadLocationSource: 'volume:8c3a1641-c24c-4273-848b-70f525c1782f'
+  defaultUploadLocationSubpath: ''
+  limit: '1'
+  localizeRelations: false
+  previewMode: full
+  restrictFiles: '1'
+  selectionLabel: 'Add a place image'
+  showSiteMenu: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  singleUploadLocationSource: 'volume:8c3a1641-c24c-4273-848b-70f525c1782f'
+  singleUploadLocationSubpath: ''
+  source: null
+  sources:
+    - 'volume:8c3a1641-c24c-4273-848b-70f525c1782f'
+  targetSiteId: null
+  useSingleFolder: false
+  validateRelatedElements: false
+  viewMode: large
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Assets

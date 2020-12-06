@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 8b9b3e0e-1700-4c2e-bdc9-10a0dccf569f
+handle: blogIntroduction
+instructions: ''
+name: 'Blog - Introduction'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: ''
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

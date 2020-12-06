@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 22995ce4-55ed-4d42-b4f9-412297371893
+handle: packagesIntroduction
+instructions: ''
+name: 'Packages - Introduction'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: ''
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

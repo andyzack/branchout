@@ -1,0 +1,14 @@
+contentColumnType: string
+fieldGroup: be306989-a11d-496b-9db1-35136d13515f
+handle: HeroBanner
+instructions: ''
+name: 'Hero Banner'
+searchable: true
+settings:
+  contentTable: '{{%matrixcontent_herobanner}}'
+  maxBlocks: ''
+  minBlocks: ''
+  propagationMethod: all
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix
